@@ -1,0 +1,19 @@
+{
+  "name": "dnavg/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://dna.vg/",
+  "keywords": ["dnavg", "russian"],
+  "support": {
+    "source": "https://github.com/dnavg/init-composer",
+    "issues": "https://github.com/dnavg/init-composer/issues",
+    "docs": "https://github.com/dnavg/init-composer/wiki",
+    "forum": "https://github.com/dnavg/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
